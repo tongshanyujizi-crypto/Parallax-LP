@@ -110,7 +110,7 @@ body {
 -----------------------------*/
 #fv {
   min-height: 100vh;
-  background-image: url("../images/main.avif");
+  background-image: url("images/main.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -332,7 +332,7 @@ body {
 
 #scroll {
   height: 600px;
-  background-image: url(../images/scroll.avif);
+  background-image: url(images/scroll.avif);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
