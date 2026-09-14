@@ -110,7 +110,7 @@ body {
 -----------------------------*/
 #fv {
   min-height: 100vh;
-  background-image: url("images/main.avif");
+  background-image: url("./images/main.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
